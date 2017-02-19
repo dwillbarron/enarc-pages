@@ -1,0 +1,22 @@
+html {
+  background-color: rgb(200, 200, 200);
+}
+
+body {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+}
+
+.txt_head {
+  width: 100%;
+  font-weight: bold;
+  font-size: 48px;
+  text-align: center;
+}
+
+.txt_p1 {
+  font-size: 20px;
+  text-align: left;
+}
