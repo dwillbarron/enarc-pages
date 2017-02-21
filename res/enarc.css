@@ -20,3 +20,9 @@ body {
   font-size: 20px;
   text-align: left;
 }
+
+.img_inline {
+  padding: 15px;
+  width:100%;
+  height:100%;
+}
